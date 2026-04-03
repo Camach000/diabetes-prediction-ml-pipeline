@@ -24,9 +24,3 @@ This project focuses on building a robust binary classification system with a st
 * **Machine Learning:** Scikit-learn
 * **Data Manipulation:** Pandas, NumPy
 * **Environment:** Jupyter Notebook
-
-## 🚀 How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/diabetes-prediction-ml-pipeline.git](https://github.com/your-username/diabetes-prediction-ml-pipeline.git)
